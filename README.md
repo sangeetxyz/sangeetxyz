@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onemineus&label=Profile%20views&color=0e75b6&style=flat" alt="onemineus" /> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on Datareum<br>💬 Ask me about Web Dev<br>⚡ Fun fact - Meaw!
 
