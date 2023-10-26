@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onemineus&label=Profile%20views&color=0e75b6&style=flat" alt="onemineus" /> </p>
-[![](https://visitcount.itsvg.in/api?id=onemineus&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=onemineus&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on Datareum<br>💬 Ask me about Web Dev<br>⚡ Fun fact - Meaw!
 
