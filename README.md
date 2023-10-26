@@ -1,10 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onemineus&label=Profile%20views&color=0e75b6&style=flat" alt="onemineus" /> </p>
-![](https://visitcount.itsvg.in/api?id=onemineus&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on Datareum<br>💬 Ask me about Web Dev<br>⚡ Fun fact - Meaw!
 
 
 ## 🌐 Socials:
+[![](https://visitcount.itsvg.in/api?id=onemineus&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/onemineus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onemineus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onemineus) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/onemineus) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/onemineus) 
 
 # 💻 Tech Stack:
