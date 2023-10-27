@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=onemineus&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🔭 I’m currently working on Datareum<br>💬 Ask me about Web Dev<br>⚡ Fun fact - My College sucks.
+🔭 I’m currently working on Datareum<br>💬 Ask me about Web Dev<br>⚡ Fun fact -> My College sucks.
 
 
 ## 🌐 Socials:
