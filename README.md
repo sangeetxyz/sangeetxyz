@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=onemineus)
 
 # 💫 About Me:
-🔭 I’m currently working on Datareum<br>⚡ Fun fact -> My College sucks.
+🔭 I’m currently working on Project Vampire<br>⚡ Fun fact -> My College sucks.
 
 
 ## 🌐 Socials:
